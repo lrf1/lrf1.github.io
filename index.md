@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "The index page"
+permalink: /index
 ---
 
 # One big test file
