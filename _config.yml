@@ -1,9 +1,7 @@
 title: LRF test site
 description: Just a little test of the Github Pages functionality
 
-remote_theme: pages-themes/primer@v0.6.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-primer
 
 readme_index:
   enabled:          false
