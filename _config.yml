@@ -1,6 +1,9 @@
-theme: jekyll-theme-cayman
 title: LRF test site
 description: Just a little test of the Github Pages functionality
+
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 readme_index:
   enabled:          false
@@ -12,6 +15,3 @@ defaults:
       path: "_posts"
     values:
       layout: post
-
-gems:
-  - jekyll-sitemap
