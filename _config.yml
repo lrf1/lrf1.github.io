@@ -3,6 +3,8 @@ description: Just a little test of the Github Pages functionality
 
 theme: jekyll-theme-primer
 
+paginate: 5
+
 readme_index:
   enabled:          false
   remove_originals: false
