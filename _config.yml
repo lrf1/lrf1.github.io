@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: LRF test site
 description: Just a little test of the Github Pages functionality
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
