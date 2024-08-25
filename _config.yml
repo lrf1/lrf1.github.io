@@ -2,6 +2,11 @@ theme: jekyll-theme-cayman
 title: LRF test site
 description: Just a little test of the Github Pages functionality
 
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
 defaults:
   - scope:
       path: "_posts"
