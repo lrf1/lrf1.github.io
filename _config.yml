@@ -4,6 +4,7 @@ description: Just a little test of the Github Pages functionality
 theme: jekyll-theme-primer
 
 paginate: 5
+paginate_path: "/page:num/"
 
 readme_index:
   enabled:          false
